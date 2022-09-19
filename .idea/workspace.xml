@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bd519a5-c1dc-4f00-aa04-dd0b341c0b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecretCodeGenerator.java" afterDir="false" />
-    </list>
+    <list default="true" id="6bd519a5-c1dc-4f00-aa04-dd0b341c0b9a" name="Changes" comment="ECE 422C Project 2. &#10;&#10;Fully working except:&#10;Guess proccesser only looks at first instance inside guess, needs a method that checks for any" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663264518593</updated>
     </task>
+    <task id="LOCAL-00001" summary="ECE 422C Project 2. &#10;&#10;Fully working except:&#10;Guess proccesser only looks at first instance inside guess, needs a method that checks for any">
+      <created>1663607243847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663607243847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ECE 422C Project 2. &#10;&#10;Fully working except:&#10;Guess proccesser only looks at first instance inside guess, needs a method that checks for any" />
+    <option name="LAST_COMMIT_MESSAGE" value="ECE 422C Project 2. &#10;&#10;Fully working except:&#10;Guess proccesser only looks at first instance inside guess, needs a method that checks for any" />
   </component>
 </project>
